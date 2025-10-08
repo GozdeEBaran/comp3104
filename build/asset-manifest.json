@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GozdeEBaran/comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/GozdeEBaran/comp3104/static/js/main.09209760.js",
+    "static/js/453.4cb495b1.chunk.js": "/GozdeEBaran/comp3104/static/js/453.4cb495b1.chunk.js",
+    "index.html": "/GozdeEBaran/comp3104/index.html",
+    "main.27ca76a1.css.map": "/GozdeEBaran/comp3104/static/css/main.27ca76a1.css.map",
+    "main.09209760.js.map": "/GozdeEBaran/comp3104/static/js/main.09209760.js.map",
+    "453.4cb495b1.chunk.js.map": "/GozdeEBaran/comp3104/static/js/453.4cb495b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.09209760.js"
+  ]
+}
